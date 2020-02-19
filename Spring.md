@@ -259,7 +259,7 @@ public class JDBCTests {
 	public void testConnection() {
 		try (Connection con = DriverManager.getConnection(
 				"jdbc:mysql://localhost:3306/DB명?characterEncoding=UTF8&serverTimezone=UTC", "user명", "비밀번호")) {
-			System.out.println(con);
+			log.info(con);
 		} catch (Exception e) {
 			fail(e.getMessage());
 		}
