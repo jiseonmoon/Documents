@@ -60,7 +60,7 @@
 
 2. 로그인하면 메인 화면이 나타남
 
-   ![1](./Image/Jenkins1.png)
+   ![1](./Image/Jenkins1.PNG)
 
 3. Jenkins 관리 → Global Tool Configuration
 
@@ -72,7 +72,7 @@
 
 3. JAVA_HOME에 jdk 위치를 입력
 
-   ![2](./Image/Jenkins2.png)
+   ![2](./Image/Jenkins2.PNG)
 
 ### 3-2. Git 설정
 
@@ -82,7 +82,7 @@
 
 3. Path to Git executable에 git 위치를 입력
 
-   ![3](./Image/Jenkins3.png)
+   ![3](./Image/Jenkins3.PNG)
 
 ### 3-3. Maven 설정
 
