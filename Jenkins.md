@@ -60,7 +60,7 @@
 
 2. 로그인하면 메인 화면이 나타남
 
-   ![1](Image/Jenkins1.png)
+   ![1](./Image/Jenkins1.png)
 
 3. Jenkins 관리 → Global Tool Configuration
 
@@ -72,7 +72,7 @@
 
 3. JAVA_HOME에 jdk 위치를 입력
 
-   ![2](Image/Jenkins2.png)
+   ![2](./Image/Jenkins2.png)
 
 ### 3-2. Git 설정
 
@@ -82,7 +82,7 @@
 
 3. Path to Git executable에 git 위치를 입력
 
-   ![3](Image/Jenkins3.png)
+   ![3](./Image/Jenkins3.png)
 
 ### 3-3. Maven 설정
 
@@ -126,7 +126,7 @@
 
 1. https://github.com/ 에 로그인
 
-   ![4](Image/Jenkins4.PNG)
+   ![4](./Image/Jenkins4.PNG)
 
 2. Settings → Developer settings → Personal access tokens → Generate new token → 비밀번호 확인
 
@@ -169,7 +169,7 @@
 
 2. 아래와 같이 입력
 
-   ![5](Image/Jenkins5.PNG)
+   ![5](./Image/Jenkins5.PNG)
 
 3. 저장
 
@@ -181,7 +181,7 @@
 
 1. Build Now → Build History에 빌드 번호를 선택해서 빌드 확인
 
-   ![6](Image/Jenkins6.PNG)
+   ![6](./Image/Jenkins6.PNG)
 
 ### 5-2. 배포 확인
 
